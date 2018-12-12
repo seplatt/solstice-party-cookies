@@ -9,8 +9,9 @@
 |Shortbread Cookies| 2 |
 |Blobs|6 |
 |Thumbprint | 2 |
-|Snickerdoodles|3|
+|Snickerdoodles|0|
 |Snowball| 1|
 |Peanutbutter| 3|
 |Whoopie Pie| 2|
 |Oatmeal Raisin| 2 |
+
