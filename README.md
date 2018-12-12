@@ -15,3 +15,4 @@
 |Whoopie Pie| 2|
 |Oatmeal Raisin| 2 |
 |Chocolate Chip| 1 |
+|Mexican Wedding Cookies | 7 |
