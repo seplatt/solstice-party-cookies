@@ -1,4 +1,4 @@
-# solstice-cookies
+# solstice-party-cookies
 
 ## List of Cookies to make for our solstice party
 
