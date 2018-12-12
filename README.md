@@ -11,6 +11,6 @@
 |Thumbprint | 2 |
 |Snickerdoodles|3|
 |Snowball| 1|
-|Peanutbutter| 3|
+|Peanutbutter| 10000|
 |Whoopie Pie| 2|
 |Oatmeal Raisin| 2 |
