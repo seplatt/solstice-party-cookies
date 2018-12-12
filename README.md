@@ -14,3 +14,4 @@
 |Peanutbutter| 3|
 |Whoopie Pie| 2|
 |Oatmeal Raisin| 2 |
+|Chocolate Chip| 1 |
