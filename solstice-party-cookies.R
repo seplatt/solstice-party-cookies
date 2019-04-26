@@ -15,3 +15,4 @@
   |Whoopie Pie| 2|
   |Oatmeal Raisin| 2 |
   |Peppermint Chocolate| 2 |
+  |Fortune Cookies| 13 |
