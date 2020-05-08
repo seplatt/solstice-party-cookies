@@ -12,7 +12,7 @@
   |Snickerdoodles|4|
   |Snowball| 2|
   |Peanutbutter| 10|
-  |Whoopie Pie| 2|
+  |Whoopie Pie| 5|
   |Oatmeal Raisin| 2 |
   |Mexican Wedding Cookies | 7 |
   |Oatmeal Sandwich Cookies| 1 |
